@@ -1,0 +1,245 @@
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing 2" tvg-name="Dubai Racing 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RACINGCOM.au" tvg-name="RACING.COM" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",RACING.COM (576p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="TravelXP.au" tvg-name="Travel XP" tvg-country="AU" tvg-language="AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="News",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One (720p)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="",World Poker Tour
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="DWEntretenimiento.de" tvg-name="DW Entretenimiento" tvg-country="SP" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="",DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="",Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="COSMOTVHD.es" tvg-name="COSMO TV HD" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="",COSMO TV HD
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
+#EXTINF:-1 tvg-id="COSMOTVHDESP.es" tvg-name="COSMO TV HD ESP" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="",COSMO TV HD ESP
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sport",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyMovies.uk" tvg-name="Comedy Movies" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/sBPVCYy.jpg" group-title="",Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-name="Sky News Arabia" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.uk" tvg-name="Sky News Extra 1" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 1 (576p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra2.uk" tvg-name="Sky News Extra 2" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.uk" tvg-name="Sky News Extra 3" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 3 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-name="Sports Channel Network" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="",Sports Channel Network
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheTennisChannel.uk" tvg-name="The Tennis Channel" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="",The Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="Travel XP" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="CNNINTERNACIONAL.us" tvg-name="CNN INTERNACIONAL" tvg-country="US" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw" group-title="",CNN INTERNACIONAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="BloombergPlus4K.us" tvg-name="Bloomberg+ 4K" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="",Bloomberg+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" group-title="Business",Bloomberg TV Europe (720p)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-name="Bloomberg TV US" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="Business",Bloomberg TV US (720p)
+https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.us" tvg-name="CNBC Europe" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Business",CNBC Europe (480p)
+#EXTINF:-1 tvg-id="CNET.us" tvg-name="CNET" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="",CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="ComedyCentralLatino.us" tvg-name="Comedy Central Latino" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="",Comedy Central Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="ComediamadeinSpain.us" tvg-name="Comedia made in Spain" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="",Comedia made in Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="",Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN (720p)
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2 (720p)
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN News (720p)
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN U (720p)
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="FootballdailyXUMO.us" tvg-name="Football daily (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VJyUVQ2.png" group-title="",Football daily (XUMO)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Fox News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-name="Fox News Now" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="News",Fox News Now (720p)
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="FOXSports.us" tvg-name="FOX Sports" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="",FOX Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-name="Fox Sports 2 Asia" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",Fox Sports 2 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="Fox Sports 3 Asia" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",Fox Sports 3 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-name="Fox Sports Asia" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",Fox Sports Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="",MTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC (720p)
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Movies",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="",HISTORY
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png" group-title="",HISTORY HD
+http://tecnotv.club/dinos/principal.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="",NATIONAL GEOGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png" group-title="",NatGeo Wild HD
+http://tecnotv.club/dinos/principal.php?c=122&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="",BEIN SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="",BEIN SPORTS HD ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg" group-title="",AXN FUL-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WObsey5.png" group-title="",CARTOON NETWORK HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ewsat.com/img/DMAX.png" group-title="",Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-7LCisvwdtnE/W5lerwLc4jI/AAAAAAAAAc0/ctzvBb4_L3AKk7I4lvlYdv59M91fVcQjgCLcBGAs/s1600/fox-sports2.png" group-title="",FOX SPORT 2 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="",FOX SPORTS HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="",FOX SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png" group-title="",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature " tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Signature
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png" group-title="",HBO XTREME FUL-HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/43223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png" group-title="",HISTORY HD
+http://tecnotv.club/dinos/principal.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png" group-title="",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="",Nat Geo People
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="",Nat Geo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="",NATGEO MUNDO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png" group-title="",NatGeo Wild HD
+http://tecnotv.club/dinos/principal.php?c=122&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="",NATIONAL GEOGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/SUphv9v.jpg" group-title="",Negocios TV
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-country="" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/IVKcVbs.png" group-title="",RT Spain
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/QweV0BP.png" group-title="",Sky 1 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7MkX0Ct.png" group-title="",Sky 2 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg" group-title="",SKY CINAMA DISNEY HD
+http://supersonictv.live:25461/903310/034806/77464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg" group-title="",SKY CINEMA COMIDY HD
+http://supersonictv.live:25461/903310/034806/77463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg" group-title="",SKY CINEMA FAMILY HD
+http://supersonictv.live:25461/903310/034806/77466
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png" group-title="",SKY CINEMA PREMIER FHD
+http://supersonictv.live:25461/903310/034806/77468
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png" group-title="",SKY CINEMA SELECT HD
+http://supersonictv.live:25461/903310/034806/77470
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK (MK)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="Music",SKY FOLK (MK)
+http://www.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png" group-title="",Sky ScFi Horror HD
+http://supersonictv.live:25461/903310/034806/77469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i2.wp.com/www.soltelevision.com/wp-content/uploads/2018/08/soltvUSA.jpg?fit=200%2C200&ssl=1" group-title="",SOL TELEVISION
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://la.axn.com/sites/la.axn/files/default/responsive_sony_axn/default_channel.jpg" group-title="",SONY AXN HD
+http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="",SPACE HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/55439
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="",SPORT TV Plus
+https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="",Sports Grid
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="",TNT SERIES
+http://mytv.club:8080/unknown/unknown123/27290
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="",TNT SERIES HD
+http://mytv.club:8080/unknown/unknown123/27289
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Europe" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/mwHtXya.jpg" group-title="",TV5 Monde Europe
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0015/0834/brand.gif?itok=3bMfYXwd" group-title="",USA.TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="",Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",World Poker Tour
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
