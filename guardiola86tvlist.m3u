@@ -1,31 +1,5 @@
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1 (1080p)
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2 (1080p)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3 (1080p)
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing (1080p)
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing 2" tvg-name="Dubai Racing 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 3 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1 (1080p)
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2 (1080p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3 (1080p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports TV (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RACINGCOM.au" tvg-name="RACING.COM" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",RACING.COM (576p)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 #EXTINF:-1 tvg-id="TravelXP.au" tvg-name="Travel XP" tvg-country="AU" tvg-language="AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="News",CBC News
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One (720p)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (400p)
@@ -125,8 +99,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC (720p)
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Movies",AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="",HISTORY
